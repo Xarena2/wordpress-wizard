@@ -1,0 +1,42 @@
+/*
+Theme Name: Twenty Twenty One Child
+Theme URI: word2021.ua
+Description: Дочірня Тема Теми Twenty Twenty One
+Author Name: Роговець Роман
+Template: twentytwentyone
+*/
+@font-face {
+	font-family: Inter;
+	src: url(http://word2021.ua/wp-content/themes/twentytwentyone-child/assets/fonts/Inter-Medium.ttf) format('ttf');
+	font-weight: medium;
+}
+@font-face {
+	font-family: Inter;
+	src: url(http://word2021.ua/wp-content/themes/twentytwentyone-child/assets/fonts/Inter-SemiBold.ttf) format('ttf');
+	font-weight: semi-bold;
+}
+
+.entry-title {
+	color: red;
+}
+p.site-description{
+	padding: 35px;
+	background-color: red;
+	color: white;
+	text-decoration-color: white;
+}
+a {
+	color: orange;
+}
+#site-title a {
+    color: #009900;
+};
+a {
+    color: #009900;
+};
+.footer{
+	background: red;
+	width: 1440px;
+	height: 140px;
+	color: red;
+}
